@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRBqvYVYzA_iIZwBK2pEXKWn1nsPHoevX9pBUu4oMcUc45xgho_-a32GjbqIHu1zV8F9uuBc7XEGmP7/pub?output=csv
+metadata: testFile
 
 ##########
 # Site/Organization Branding 
